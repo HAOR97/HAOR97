@@ -6,6 +6,9 @@
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
-- 📫 How to reach me: **kolazar001@gmail.com**
+
+- 📫 How to reach me **kolazar001@gmail.com**
+
+
+
+
